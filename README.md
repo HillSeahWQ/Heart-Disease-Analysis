@@ -12,7 +12,9 @@ For the complete, comprehensive and robust analysis, wiew the source code files 
 
 # Contributors
 [@HillSeahWQ](https://github.com/HillSeahWQ)
-[@Aloysius Ang](https://github.com/ConcealedSword) 
+
+[@Aloysius Ang](https://github.com/ConcealedSword)
+
 [@Chia-Jer-Wen](https://github.com/Chia-Jer-Wen)
 
 # Introduction: Problem Definition and Practical Motivation
