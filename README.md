@@ -7,7 +7,7 @@ For the complete, comprehensive and robust analysis, wiew the source code files 
 > 1. [Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
 > 2. Exploratory Data Analysis
 > 3. [Preprocessing (Encoding and Resampling)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
-> 4. Machine Learning (Creation of classification models)
+> 4. [Machine Learning (Creation of classification models)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Machine%20Learning.ipynb)
 
 
 # Contributors
