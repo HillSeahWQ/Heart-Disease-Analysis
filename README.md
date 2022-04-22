@@ -4,10 +4,10 @@
 This is the project for SC1015(Introduction to Data Science and Artificial Intelligence).
 Full code has been separated into the respective components for data analysis and prediction.
 For the complete, comprehensive and robust analysis, wiew the source code files sequentially in the order stated below:
-  1. Data Extraction and Cleaning
-  2. Exploratory Data Analysis
-  3. Preprocessing (Encoding and Resampling)
-  4. Machine Learning (Creation of classification models)
+> 1. [Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
+> 2. Exploratory Data Analysis
+> 3. [Preprocessing (Encoding and Resampling)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
+> 4. Machine Learning (Creation of classification models)
 
 
 # Contributors
