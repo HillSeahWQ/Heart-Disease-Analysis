@@ -21,15 +21,27 @@ For the complete, comprehensive and robust analysis, wiew the source code files 
 Our interest in heart disease actually came from one of the other modules we are taking, which taught us that heart disease is one of the biggest killers in Singapore. This sparked our interest and led us to research further on the significance of heart disease. We found that heart disease is the second biggest killer in Singapore, with 4,031 deaths and accounting for 18.8% of total deaths in 2019 alone. Heart disease is also the biggest killer in the United States and Globally, according to the WHO. 
 
 # Models used
-**Decision tree**: a supervised machine learning model to predice whether a patient has heart disease or not. Used for classification data such as the one used for our project.
+**Decision tree** - a supervised machine learning model to predice whether a patient has heart disease or not. Used for classification data such as the one used for our project.
 
-**Random Forest**: Utilizes ensemble learning. A random forest contains multiple decision trees. The forest is trained through bagging or bootstrap aggregating. The random forest produces the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome. Random forest is able to reduce the limitations of decision tree and reduces overfitting. However, we can still improve on this.
+**Random Forest** - Utilizes ensemble learning. A random forest contains multiple decision trees. The forest is trained through bagging or bootstrap aggregating. The random forest produces the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome. Random forest is able to reduce the limitations of decision tree and reduces overfitting. However, we can still improve on this.
 
-**Cross validation (Grid Search)**: used to estimate the performance (or accuracy) of machine learning models. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
+**Cross validation (Grid Search)** - used to estimate the performance (or accuracy) of machine learning models. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
 
-> Grid Search: used to find the optimal hyperparameters of a model which maximises the accuracy of the model.
+> Grid Search- used to find the optimal hyperparameters of a model which maximises the accuracy of the model.
 > 
 # Conclusion
+Hospitals and doctors can predict whether a patient has or is going to have heart disease using the other health-related variables to increase early detection
+
+_**Data-Driven Insights**_
+
+> 1. **Increase early treatment** - Patients who detected heart disease early can go for early treatment and increase chances of recovering
+
+> 2. **Lower medical costs** - With early treatment, operations and surgeries are less likely to be needed for the patient to recover
+
+> 3. **Lower hospital demands** - Early treatment prevents heart disease and allows patients to recover on their own, reducing the need to stay at hospitals
+
+> 4. **Increase survivability** - Early detection leads to early intervention which saves lives
+
 
 # New Learnings
 > 1. Encoding
