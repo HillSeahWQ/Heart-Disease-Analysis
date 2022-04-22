@@ -20,7 +20,21 @@ For the complete, comprehensive and robust analysis, wiew the source code files 
 # Introduction: Problem Definition and Practical Motivation
 Our interest in heart disease actually came from one of the other modules we are taking, which taught us that heart disease is one of the biggest killers in Singapore. This sparked our interest and led us to research further on the significance of heart disease. We found that heart disease is the second biggest killer in Singapore, with 4,031 deaths and accounting for 18.8% of total deaths in 2019 alone. Heart disease is also the biggest killer in the United States and Globally, according to the WHO. 
 
-# Models used
+# Data Preparation and Cleaning
+> [JupterNotebook #1: Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
+Data shaping and processing for more accurate analysis and exploration. Smo
+
+# Exploratory Data Analysis
+> [JupterNotebook #2: Exploratory Data Analysis](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
+**Data Visualisation** - Using different plots and graphs to paint insightful pictures of the relationship between the response variable "HeartDisease" and the numerical and categorical predictor variables
+
+# Data Preprocessing
+> [JupyterNotebook #3: Data Preprocessing Jupyter Notbook](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
+**Encoding** - Used One Hot Encoder to encode non-ordinal categorical data. This is to allow the machine learning algorithms in Scikit-Learn that require numerical data to operate on the encoded categorical data directly.
+**Resampling** - The response variable has severe imbalance of 10:1 for the classes of data. Since classification algorithms tend to have a low prediction accuracy toward the minority class because they assume that there is a balance between the classes, resampling is done. Upsampling and downsampling is performed and then later compared to see which results in a model with higher prediction accuracy.
+
+# Machine Learning
+> [JupyterNotebook #4: Machine Learning ](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Machine%20Learning.ipynb)
 **Decision tree** - a supervised machine learning model to predice whether a patient has heart disease or not. Used for classification data such as the one used for our project.
 
 **Random Forest** - Utilizes ensemble learning. A random forest contains multiple decision trees. The forest is trained through bagging or bootstrap aggregating. The random forest produces the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome. Random forest is able to reduce the limitations of decision tree and reduces overfitting. However, we can still improve on this.
@@ -28,7 +42,7 @@ Our interest in heart disease actually came from one of the other modules we are
 **Cross validation (Grid Search)** - used to estimate the performance (or accuracy) of machine learning models. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
 
 > Grid Search- used to find the optimal hyperparameters of a model which maximises the accuracy of the model.
-> 
+
 # Conclusion
 Hospitals and doctors can predict whether a patient has or is going to have heart disease using the other health-related variables to increase early detection
 
