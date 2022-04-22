@@ -32,13 +32,22 @@ Our interest in heart disease actually came from one of the other modules we are
 # Conclusion
 
 # New Learnings
+> 1. Encoding
+> 2. Resampling
+> 3. Random Forest
+> 4. Grid Search (Cross-Validation)
 
 # References
+
+Brownlee, J. (2020, August 17). Ordinal and one-hot encodings for Categorical Data. Machine Learning Mastery. Retrieved April 22, 2022, from https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/
+
 Emily Cronkleton (30 January 2022), Medical News Today, The biggest causes of death in 2020, https://www.medicalnewstoday.com/articles/death-statistics-by-cause-2020#causes-of-death-in-the-us
 
 Great Learning Team, (24 September 2020), What is Cross Validation in Machine learning? Types of Cross Validation, https://www.mygreatlearning.com/blog/cross-validation/
 
 HOH (n.d), PRINCIPAL CAUSES OF DEATH, https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
+
+Kibet, A. (2020, September 1). Classification framework for imbalanced data. Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/classification-framework-for-imbalanced-data-9a7961354033 
 
 Mayur Kulkarni, (7 September 2017), Decision Trees for Classification: A Machine Learning Algorithm, https://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html#:~:text=Introduction%20Decision%20Trees%20are%20a,according%20to%20a%20certain%20parameter.
 
