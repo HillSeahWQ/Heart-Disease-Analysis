@@ -57,7 +57,7 @@ Emily Cronkleton (30 January 2022), Medical News Today, The biggest causes of de
 
 Great Learning Team, (24 September 2020), What is Cross Validation in Machine learning? Types of Cross Validation, https://www.mygreatlearning.com/blog/cross-validation/
 
-HOH (n.d), PRINCIPAL CAUSES OF DEATH, https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
+MOH (n.d), PRINCIPAL CAUSES OF DEATH, https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
 
 Kibet, A. (2020, September 1). Classification framework for imbalanced data. Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/classification-framework-for-imbalanced-data-9a7961354033 
 
