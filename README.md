@@ -44,9 +44,7 @@ Data shaping and processing for more accurate analysis and exploration. Smo
 
 **Random Forest** - Utilizes ensemble learning. A random forest contains multiple decision trees. The forest is trained through bagging or bootstrap aggregating. The random forest produces the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome. Random forest is able to reduce the limitations of decision tree and reduces overfitting. However, we can still improve on this.
 
-**Cross validation (Grid Search)** - used to estimate the performance (or accuracy) of machine learning models. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
-
-> Grid Search- used to find the optimal hyperparameters of a model which maximises the accuracy of the model.
+**Grid Search Cross-Validation** - used to find the optimal hyperparameters of a model which maximises the accuracy of the machine learning model. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
 
 # Conclusion
 Hospitals and doctors can predict whether a patient has or is going to have heart disease using the other health-related variables to increase early detection
