@@ -5,7 +5,7 @@ This is the project for SC1015(Introduction to Data Science and Artificial Intel
 Full code has been separated into the respective components for data analysis and prediction.
 For the complete, comprehensive and robust analysis, wiew the source code files sequentially in the order stated below:
 > 1. [Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
-> 2. Exploratory Data Analysis
+> 2. [Exploratory Data Analysis]()
 > 3. [Preprocessing (Encoding and Resampling)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
 > 4. [Machine Learning (Creation of classification models)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Machine%20Learning.ipynb)
 
@@ -26,7 +26,7 @@ Our interest in heart disease actually came from one of the other modules we are
 Data shaping and processing for more accurate analysis and exploration. Smo
 
 # Exploratory Data Analysis
-> [JupterNotebook #2: Exploratory Data Analysis](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
+> [JupterNotebook #2: Exploratory Data Analysis]()
 
 **Data Visualisation** - Using different plots and graphs to paint insightful pictures of the relationship between the response variable "HeartDisease" and the numerical and categorical predictor variables
 
