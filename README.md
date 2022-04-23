@@ -23,12 +23,18 @@ Our interest in heart disease actually came from one of the other modules we are
 # Data Preparation and Cleaning
 > [JupterNotebook #1: Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
 
-Data shaping and processing for more accurate analysis and exploration. Smo
+Data shaping and processing for more accurate analysis and exploration. 
 
 # Exploratory Data Analysis
 > [JupterNotebook #2: Exploratory Data Analysis]()
 
 **Data Visualisation** - Using different plots and graphs to paint insightful pictures of the relationship between the response variable "HeartDisease" and the numerical and categorical predictor variables
+
+**Univariate Analysis** - used to find pattern in the data to describe the variable. In univariate analysis, all variables are analysed independently. For each numeric variable, analyse it through looking at its mean, mode, median, quartiles and distribution. For each categorical variable, analyse it through looking at its number of categories, top, and cardinality.
+
+**Bivariate Analysis** - used to find relationship between variables, specifically to determine the existence and the degree of statistical association . For instance, relationship between predictors and response are analysed. The purpose of this is to discover variables that have significant statistical association with response variable, so that it may be used in machine learning. For bivariate analysis between "HEARTDISEASE" and a categorical variable: the probability of having heart disease is analysed for different conditions in that categorical variable. For bivariate analysis between "HEARTDISEASE" and a numeric variable: the distribution of that numeric variable, for having and not having heart disease, are displayed in boxplot, stripplot, violin plot and kde plot. 
+
+**Multivariate Analysis** - similar to Bivariate Analysis, Multivariate Analysis is also used to identify the statistical association between variables. The difference is to study multiple factors at once, and this particularly effective in minimizing bias. For multivariate between "HEARTDISEASE" and 2 categorical variables: probability of having heart disease is analysed for different combination of conditions in those 2 variables.
 
 # Data Preprocessing
 > [JupyterNotebook #3: Data Preprocessing Jupyter Notbook](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
