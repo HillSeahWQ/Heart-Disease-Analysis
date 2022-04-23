@@ -1,11 +1,15 @@
 # Heart-Disease-Analysis Repository
 
 # About
-This is the project for SC1015(Introduction to Data Science and Artificial Intelligence).
+**Welcome! This is a data science project for Nanyang Technological University's SC1015 module (Introduction to Data Science and Artificial Intelligence)**.
+
+*Dataset used*: [Kaggle Link](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?datasetId=1936563&sortBy=voteCount) or [csv file](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Datasets/heart_2020_raw.csv)
+
 Full code has been separated into the respective components for data analysis and prediction.
+
 For the complete, comprehensive and robust analysis, wiew the source code files sequentially in the order stated below:
 > 1. [Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
-> 2. [Exploratory Data Analysis]()
+> 2. [Exploratory Data Analysis](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/ExploratoryDataAnalysis.ipynb)
 > 3. [Preprocessing (Encoding and Resampling)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Preprocessing%20-%20Encoding%20and%20Resampling.ipynb)
 > 4. [Machine Learning (Creation of classification models)](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Machine%20Learning.ipynb)
 
@@ -26,7 +30,7 @@ Our interest in heart disease actually came from one of the other modules we are
 Data shaping and processing for more accurate analysis and exploration. According to our naming convention, we standardize the capitalization of variable names to all upper cases. Dataset found is already cleaned, and there is no missing value; therefore, no need to fill missing values. We have fixed structural errors in the variable "DIABETIC", which converts different types of "No" and "Yes" into the same category "No" and "Yes". Finally, we converted all the "No"/"Female" and "Yes"/"Male" to 0 and 1 to facilitate further data analysis.
 
 # Exploratory Data Analysis
-> [JupterNotebook #2: Exploratory Data Analysis]()
+> [JupterNotebook #2: Exploratory Data Analysis](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/ExploratoryDataAnalysis.ipynb)
 
 **Data Visualisation** - Using different plots and graphs to paint insightful pictures of the relationship between the response variable "HEARTDISEASE" and the numerical and categorical predictor variables
 
