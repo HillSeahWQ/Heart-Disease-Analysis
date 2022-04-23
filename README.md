@@ -86,11 +86,11 @@ Emily Cronkleton (30 January 2022), Medical News Today, The biggest causes of de
 
 Great Learning Team, (24 September 2020), What is Cross Validation in Machine learning? Types of Cross Validation, https://www.mygreatlearning.com/blog/cross-validation/
 
-MOH (n.d), PRINCIPAL CAUSES OF DEATH, https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
-
 Kibet, A. (2020, September 1). Classification framework for imbalanced data. Medium. Retrieved April 22, 2022, from https://towardsdatascience.com/classification-framework-for-imbalanced-data-9a7961354033 
 
 Mayur Kulkarni, (7 September 2017), Decision Trees for Classification: A Machine Learning Algorithm, https://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html#:~:text=Introduction%20Decision%20Trees%20are%20a,according%20to%20a%20certain%20parameter.
+
+MOH (n.d), PRINCIPAL CAUSES OF DEATH, https://www.moh.gov.sg/resources-statistics/singapore-health-facts/principal-causes-of-death
 
 Onesmus Mbaabu, (11 December 2020), Introduction to Random Forest in Machine Learning, https://www.section.io/engineering-education/introduction-to-random-forest-in-machine-learning/#:~:text=A%20random%20forest%20is%20a%20machine%20learning%20technique%20that's%20used,provide%20solutions%20to%20complex%20problems
 
