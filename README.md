@@ -59,7 +59,7 @@ Data shaping and processing for more accurate analysis and exploration. Accordin
 **Grid Search Cross-Validation** - used to find the optimal hyperparameters of a model which maximises the accuracy of the machine learning model. It can be used to prevent overfitting of the model, especially where the amount of data may be limited. In cross-validation, the data is partitioned into a fixed number of folds, and analysis is run on each fold. Then, the average of the overall error estimate is calculated. Cross-validation is a method used to assess the skill of machine learning models.
 
 # Conclusion
-Hospitals and doctors can predict whether a patient has or is going to have heart disease using the other health-related variables to increase early detection
+Using the our refined and fine-tuned Random Forest classification model, hospitals and doctors can better predict whether a patient has or is going to have heart disease, increasing early detection
 
 _**Data-Driven Insights**_
 
