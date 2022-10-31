@@ -26,6 +26,8 @@ For the complete, comprehensive and robust analysis, view and run the source cod
 # Introduction: Problem Definition and Practical Motivation
 Our interest in heart disease actually came from one of the other modules we are taking, which taught us that heart disease is one of the biggest killers in Singapore. This sparked our interest and led us to research further on the significance of heart disease. We found that heart disease is the second biggest killer in Singapore, with 4,031 deaths and accounting for 18.8% of total deaths in 2019 alone. Heart disease is also the biggest killer in the United States and Globally, according to the WHO. 
 
+As such, we sought to create an accurate prediction model that predicts the diagnosis of heart disease based of a multitude of health variables.
+
 # Data Preparation and Cleaning
 > [JupterNotebook #1: Data Extraction and Cleaning](https://github.com/HillSeahWQ/Heart-Disease-Analysis/blob/main/Data%20Extraction%20and%20Cleaning.ipynb)
 
